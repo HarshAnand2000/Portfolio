@@ -1,2 +1,2 @@
 # Portfolio
-portfolio website ade with HTML and CSS
+portfolio website made with HTML and CSS
